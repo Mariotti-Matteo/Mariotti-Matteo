@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mariotti-Matteo
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in Cyber Security and games
 - 🌱 I’m currently learning HTML, CSS, C, javascript
 
 <!---
