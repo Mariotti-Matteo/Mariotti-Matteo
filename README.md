@@ -1,6 +1,6 @@
 -  Hi, I’m @Mariotti-Matteo <!-- also known as operator_matte on discord -->
 -  I’m interested in Cyber Security and games
--  I’m currently learning HTML, CSS, C
+-  I’m currently learning HTML, CSS, C, JS, Python
 - School projects
 - Private Projects
 - https://www.randomgoat.com/
